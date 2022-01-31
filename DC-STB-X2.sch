@@ -218,14 +218,14 @@ DIN A4, landscape with extra doc field</description>
 <segment>
 <pinref part="U$1" gate="G$2" pin="P$1"/>
 <wire x1="127" y1="111.76" x2="119.38" y2="111.76" width="0.1524" layer="91"/>
-<label x="119.38" y="111.76" size="2.54" layer="95"/>
+<label x="119.38" y="111.76" size="1.778" layer="95"/>
 </segment>
 </net>
 <net name="P1" class="0">
 <segment>
 <pinref part="U$1" gate="G$1" pin="P$1"/>
 <wire x1="127" y1="116.84" x2="119.38" y2="116.84" width="0.1524" layer="91"/>
-<label x="119.38" y="116.84" size="2.54" layer="95"/>
+<label x="119.38" y="116.84" size="1.778" layer="95"/>
 </segment>
 </net>
 </nets>
