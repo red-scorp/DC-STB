@@ -3,7 +3,7 @@
 <eagle version="9.6.2">
 <drawing>
 <settings>
-<setting alwaysvectorfont="yes"/>
+<setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
 <grid distance="1" unitdist="mm" unit="mm" style="lines" multiple="1" display="no" altdistance="0.1" altunitdist="mm" altunit="mm"/>
@@ -74,17 +74,17 @@
 <board>
 <plain>
 <wire x1="0" y1="0" x2="29" y2="0" width="0" layer="20"/>
-<wire x1="29" y1="0" x2="29" y2="54" width="0" layer="20"/>
-<wire x1="29" y1="54" x2="0" y2="54" width="0" layer="20"/>
-<wire x1="0" y1="54" x2="0" y2="0" width="0" layer="20"/>
+<wire x1="29" y1="0" x2="29" y2="53" width="0" layer="20"/>
+<wire x1="29" y1="53" x2="0" y2="53" width="0" layer="20"/>
+<wire x1="0" y1="53" x2="0" y2="0" width="0" layer="20"/>
 <hole x="15" y="4" drill="4.2"/>
-<hole x="15" y="50" drill="4.2"/>
+<hole x="15" y="49" drill="4.2"/>
 <circle x="15" y="4" radius="4.5" width="0.127" layer="51"/>
-<circle x="15" y="50" radius="4.5" width="0.127" layer="51"/>
+<circle x="15" y="49" radius="4.5" width="0.127" layer="51"/>
 <text x="28" y="38" size="1.778" layer="22" font="vector" rot="MR270">DC-STB-X4-0010
 (c) Andriy Golovnya
 http://redscorp.net</text>
-<rectangle x1="21" y1="5" x2="29" y2="49" layer="21"/>
+<rectangle x1="21" y1="5" x2="29" y2="48" layer="21"/>
 <text x="6" y="13.75" size="1.778" layer="21" font="vector" rot="R90" align="top-center">P1</text>
 <text x="6" y="22.25" size="1.778" layer="21" font="vector" rot="R90" align="top-center">P2</text>
 <rectangle x1="4" y1="21.5" x2="11" y2="23" layer="30"/>
