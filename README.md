@@ -1,16 +1,16 @@
-# DC-STB project
+# DC/STB project
 
 Direct Curent Screw Terminal Board for 8.5mm terminals.
 
-## DC-STB-X2
+## DCSTB-X2
 
-**DC-STB-X2** two screw terminal board for 8.5mm pitch terminals.
+**DCSTB-X2** two screw terminal board for 8.5mm pitch terminals.
 
 Preview:
 
-![DC-STB-X2 preview](img/DC-STB-X2.png)
+![DCSTB-X2 preview](img/DCSTB-X2.png)
 
-[Schematics in PDF format](doc/DC-STB-X2.pdf)
+[Schematics in PDF format](doc/DCSTB-X2.pdf)
 
 Features:
 
@@ -20,15 +20,15 @@ Features:
 
 CAM files are available.
 
-## DC-STB-X4
+## DCSTB-X4
 
-**DC-STB-X4** four screw terminal board for 8.5mm pitch terminals.
+**DCSTB-X4** four screw terminal board for 8.5mm pitch terminals.
 
 Preview:
 
-![DC-STB-X4 preview](img/DC-STB-X4.png)
+![DCSTB-X4 preview](img/DCSTB-X4.png)
 
-[Schematics in PDF format](doc/DC-STB-X4.pdf)
+[Schematics in PDF format](doc/DCSTB-X4.pdf)
 
 Features:
 
@@ -38,15 +38,15 @@ Features:
 
 CAM files are available.
 
-## DC-STB-X6
+## DCSTB-X6
 
-**DC-STB-X6** six screw terminal board for 8.5mm pitch terminals.
+**DCSTB-X6** six screw terminal board for 8.5mm pitch terminals.
 
 Preview:
 
-![DC-STB-X6 preview](img/DC-STB-X6.png)
+![DCSTB-X6 preview](img/DCSTB-X6.png)
 
-[Schematics in PDF format](doc/DC-STB-X6.pdf)
+[Schematics in PDF format](doc/DCSTB-X6.pdf)
 
 Features:
 
@@ -56,15 +56,15 @@ Features:
 
 CAM files are available.
 
-## DC-STB-X8
+## DCSTB-X8
 
-**DC-STB-X8** eight screw terminal board for 8.5mm pitch terminals.
+**DCSTB-X8** eight screw terminal board for 8.5mm pitch terminals.
 
 Preview:
 
-![DC-STB-X8 preview](img/DC-STB-X8.png)
+![DCSTB-X8 preview](img/DCSTB-X8.png)
 
-[Schematics in PDF format](doc/DC-STB-X8.pdf)
+[Schematics in PDF format](doc/DCSTB-X8.pdf)
 
 Features:
 
