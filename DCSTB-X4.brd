@@ -82,7 +82,7 @@
 <hole x="15" y="49" drill="4.2"/>
 <circle x="15" y="4" radius="4.5" width="0.127" layer="51"/>
 <circle x="15" y="49" radius="4.5" width="0.127" layer="51"/>
-<text x="28" y="38" size="1.778" layer="22" font="vector" rot="MR270">DC-STB-X4-0010
+<text x="28" y="38" size="1.778" layer="22" font="vector" rot="MR270">DCSTB-X4-0010
 (c) Andriy Golovnya
 http://redscorp.net</text>
 <rectangle x1="21" y1="5" x2="29" y2="48" layer="21"/>

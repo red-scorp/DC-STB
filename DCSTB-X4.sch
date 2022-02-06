@@ -46214,7 +46214,7 @@ DIN A4, landscape with extra doc field</description>
 <sheets>
 <sheet>
 <plain>
-<text x="195.58" y="7.62" size="2.54" layer="94">DC-STB-X4-0010</text>
+<text x="195.58" y="7.62" size="2.54" layer="94">DCSTB-X4-0010</text>
 <text x="256.54" y="7.62" size="2.54" layer="94">1.0</text>
 <text x="165.1" y="25.4" size="2.54" layer="94">DC Screw Terminal Board x4
 (c) Andriy Golovnya</text>
