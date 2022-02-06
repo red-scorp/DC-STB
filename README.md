@@ -74,9 +74,30 @@ Features:
 
 CAM files are available.
 
-## Link
+## DCSTB-X10
+
+**DCSTB-X10** ten screw terminal board for 8.5mm pitch terminals.
+
+Preview:
+
+![DCSTB-X10 preview](img/DCSTB-X10.png)
+
+[Schematics in PDF format](doc/DCSTB-X10.pdf)
+
+Features:
+
+- Uses 8.5mm pitch terminals
+- Current up to 10A
+- Voltage up to 100V
+
+CAM files are available.
+
+## Links
 
 - [8.5mm terminals on LCSC](https://lcsc.com/products/Barrier-Terminal-Blocks_11073.html)
+- [8.5mm terminals on AliExpress](https://www.aliexpress.com/wholesale?SearchText=screw+terminal+8.5mm)
+- [8.5mm terminals on Amazon](https://www.amazon.com/s?k=screw+terminal+8.5mm+pitch)
+- [8.5mm terminals on Ebay](https://www.ebay.com/sch/i.html?_nkw=screw+terminal+8.5mm)
 
 ## How to help
 
