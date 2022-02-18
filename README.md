@@ -2,9 +2,13 @@
 
 Direct Current Screw Terminal Board for 8.5mm terminals.
 
+![Photo-DCSTB-all](img/Photo-DCSTB-all.jpg)
+
 ## DCSTB-X2
 
 **DCSTB-X2** two screw terminal board for 8.5mm pitch terminals.
+
+![Photo-DCSTB-X2](img/Photo-DCSTB-X2.jpg)
 
 Preview:
 
@@ -24,6 +28,8 @@ CAM files are available.
 
 **DCSTB-X4** four screw terminal board for 8.5mm pitch terminals.
 
+![Photo-DCSTB-X4](img/Photo-DCSTB-X4.jpg)
+
 Preview:
 
 ![DCSTB-X4 preview](img/DCSTB-X4.png)
@@ -42,6 +48,8 @@ CAM files are available.
 
 **DCSTB-X6** six screw terminal board for 8.5mm pitch terminals.
 
+![Photo-DCSTB-X6](img/Photo-DCSTB-X6.jpg)
+
 Preview:
 
 ![DCSTB-X6 preview](img/DCSTB-X6.png)
@@ -59,6 +67,8 @@ CAM files are available.
 ## DCSTB-X8
 
 **DCSTB-X8** eight screw terminal board for 8.5mm pitch terminals.
+
+![Photo-DCSTB-X8](img/Photo-DCSTB-X8.jpg)
 
 Preview:
 
