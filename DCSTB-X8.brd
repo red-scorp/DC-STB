@@ -8435,7 +8435,7 @@ design rules under a new name.</description>
 <element name="U$3" library="KF8500-Terminals" package="KF8500-8.5-2P" value="KF8500-8.5-2P" x="15" y="52" smashed="yes" rot="R90"/>
 <element name="U$4" library="KF8500-Terminals" package="KF8500-8.5-2P" value="KF8500-8.5-2P" x="15" y="69" smashed="yes" rot="R90"/>
 <element name="LOGO1" library="_my_logos" package="MFDEC_L_10MM" value="MFDECLOGO_L_10MM" x="15" y="75" smashed="yes" rot="MR0"/>
-<element name="LOGO2" library="_my_logos" package="RSNURL_QR_10MM" value="RSNURL_QR_10MM" x="10" y="1" smashed="yes" rot="MR0"/>
+<element name="LOGO2" library="_my_logos" package="RSNURL_QR_10MM" value="RSNURL_QR_10MM" x="11" y="1" smashed="yes" rot="MR0"/>
 </elements>
 <signals>
 <signal name="P2">
