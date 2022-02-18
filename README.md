@@ -1,6 +1,6 @@
 # DC/STB project
 
-Direct Curent Screw Terminal Board for 8.5mm terminals.
+Direct Current Screw Terminal Board for 8.5mm terminals.
 
 ## DCSTB-X2
 
