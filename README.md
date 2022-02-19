@@ -102,6 +102,14 @@ Features:
 
 CAM files are available.
 
+## DCSTB-STAND
+
+**DCSTB-STAND** is a simple stand (foot) for DCSTB boards.
+
+![DCSTB-STAND preview](img/DCSTB-STAND.png)
+
+STL file is available.
+
 ## Links
 
 - [8.5mm terminals on LCSC](https://lcsc.com/products/Barrier-Terminal-Blocks_11073.html)
