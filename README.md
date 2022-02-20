@@ -102,11 +102,19 @@ Features:
 
 CAM files are available.
 
-## DCSTB-STAND
+## DCSTB-FOOT-6mm
 
-**DCSTB-STAND** is a simple stand (foot) for DCSTB boards.
+**DCSTB-FOOT-6mm** is a simple 6mm high stand (foot) for DCSTB boards.
 
-![DCSTB-STAND preview](img/DCSTB-STAND.png)
+![DCSTB-FOOT-6mm preview](img/DCSTB-FOOT-6mm.png)
+
+STL file is available.
+
+## DCSTB-FOOT-8mm
+
+**DCSTB-FOOT-8mm** is a simple 8mm high stand (foot) for DCSTB boards.
+
+![DCSTB-FOOT-8mm preview](img/DCSTB-FOOT-8mm.png)
 
 STL file is available.
 
