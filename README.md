@@ -118,6 +118,46 @@ STL file is available.
 
 STL file is available.
 
+## DCSTB-BED-X2
+
+**DCSTB-BED-X2** is a bed structure for X2 DCSTB boards.
+
+![DCSTB-BED-X2 preview](img/DCSTB-BED-X2.png)
+
+STL file is available.
+
+## DCSTB-BED-X4
+
+**DCSTB-BED-X4** is a bed structure for X4 DCSTB boards.
+
+![DCSTB-BED-X4 preview](img/DCSTB-BED-X4.png)
+
+STL file is available.
+
+## DCSTB-BED-X6
+
+**DCSTB-BED-X6** is a bed structure for X6 DCSTB boards.
+
+![DCSTB-BED-X6 preview](img/DCSTB-BED-X6.png)
+
+STL file is available.
+
+## DCSTB-BED-X8
+
+**DCSTB-BED-X8** is a bed structure for X8 DCSTB boards.
+
+![DCSTB-BED-X8 preview](img/DCSTB-BED-X8.png)
+
+STL file is available.
+
+## DCSTB-BED-X10
+
+**DCSTB-BED-X10** is a bed structure for X10 DCSTB boards.
+
+![DCSTB-BED-X10 preview](img/DCSTB-BED-X10.png)
+
+STL file is available.
+
 ## Links
 
 - [8.5mm terminals on LCSC](https://lcsc.com/products/Barrier-Terminal-Blocks_11073.html)
