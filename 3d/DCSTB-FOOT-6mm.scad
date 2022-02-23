@@ -16,7 +16,7 @@ difference() {
         translate([0, 0, 0])
             cube([body_len, body_width, body_hight]);
         translate([0, -border_width, 0])
-    cube([body_len, border_width, border_hight + body_hight]);
+            cube([body_len, border_width, border_hight + body_hight]);
     }
     translate([hole_pos_x, hole_pos_y, 0])
         cylinder(body_hight, r = hole_dia / 2);
