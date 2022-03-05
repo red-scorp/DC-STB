@@ -158,6 +158,46 @@ STL file is available.
 
 STL file is available.
 
+## DCSTB-CAP-X2
+
+**DCSTB-CAP-X2** is a cap structure for X2 DCSTB boards.
+
+![DCSTB-CAP-X2 preview](img/DCSTB-CAP-X2.png)
+
+STL file is available.
+
+## DCSTB-CAP-X4
+
+**DCSTB-CAP-X4** is a cap structure for X4 DCSTB boards.
+
+![DCSTB-CAP-X4 preview](img/DCSTB-CAP-X4.png)
+
+STL file is available.
+
+## DCSTB-CAP-X6
+
+**DCSTB-CAP-X6** is a cap structure for X6 DCSTB boards.
+
+![DCSTB-CAP-X6 preview](img/DCSTB-CAP-X6.png)
+
+STL file is available.
+
+## DCSTB-CAP-X8
+
+**DCSTB-CAP-X8** is a cap structure for X8 DCSTB boards.
+
+![DCSTB-CAP-X8 preview](img/DCSTB-CAP-X8.png)
+
+STL file is available.
+
+## DCSTB-CAP-X10
+
+**DCSTB-CAP-X10** is a cap structure for X10 DCSTB boards.
+
+![DCSTB-CAP-X10 preview](img/DCSTB-CAP-X10.png)
+
+STL file is available.
+
 ## Links
 
 - [8.5mm terminals on LCSC](https://lcsc.com/products/Barrier-Terminal-Blocks_11073.html)
